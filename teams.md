@@ -614,3 +614,24 @@ A webapp to create travel albums.
 The APIs that I will be using are: Fauna and Hasura GraphQL.
 3. What is your plan to execute this idea?  
  My plan is to design Data flow diagram, Develop and Deploy.
+ 
+# Pharaoh Nation
+### Ecommerce site with Egyptian Swagger
+* Teammates:
+    - Oscar Mejia (@pwii#5075)
+    - Brian Williams (@BKwillia#0319)
+    - Nisson Nie (@dskilly#4111)
+    - Dylan Tientcheu(@Dylan Blur#1182)
+    - Chris Mendoza (@ChrisCodes#5338)
+* Seeking Teammates: No
+* [Project URL](https://github.com/odm275/pharaoh-nation)
+* Project Name (Pharaoh Apparel)
+### Project Q&A:
+1. What are you going to build?  
+    Ecommerce Site with an egyptian inspiration 
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+    We plan to use Pilon for an all purpose ecommerce, and possibly clarifai
+3. What is your plan to execute this idea?  
+    We plan to split the work in a JM and JA team. JM team use javascript and build vue UI components while JA team researches the pilon api, and wires it up to the UI with Javascript. Hence, JAM!
+
+***
